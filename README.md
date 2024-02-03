@@ -1,4 +1,4 @@
-# Namaste React
+# Namaste Reactjs
 
 # Parcel
 
